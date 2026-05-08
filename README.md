@@ -5,7 +5,7 @@ This resource is designed to support the scientific community in developing effe
 
 **Web Server:** https://webs.iiitd.edu.in/raghava/cppsite/
 
-This dataset is also available on Zenodo at 
+This dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20086676
 
 ## About the Database
 
