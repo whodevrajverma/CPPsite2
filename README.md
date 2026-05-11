@@ -21,7 +21,7 @@ CPPsite 2.0 consolidates information from research papers and patents, providing
 * **Focus on Diversity:** A major focus of this update is the inclusion of CPPs with diverse chemical modifications.
 
 ## Note
-* **Please convert all the .fasta files in.rtf format or download it directly from the server.**
+* **Please convert all the ".fasta" files in Natural and non natural folders to ".rtf" format or download it directly from the server.**
 
 
 ## Key Features
