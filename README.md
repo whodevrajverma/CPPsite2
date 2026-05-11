@@ -18,7 +18,10 @@ CPPsite 2.0 consolidates information from research papers and patents, providing
 * **Recent Curation:** The updated data were curated from literature published between 2012 and 2015. 
 
 
-* **Focus on Diversity:** A major focus of this update is the inclusion of CPPs with diverse chemical modifications. 
+* **Focus on Diversity:** A major focus of this update is the inclusion of CPPs with diverse chemical modifications.
+
+## Note
+* **Please convert all the .fasta files in.rtf format or download it directly from the server.**
 
 
 ## Key Features
