@@ -4,6 +4,8 @@
 This resource is designed to support the scientific community in developing effective intracellular delivery vehicles for various therapeutic molecules, including drugs, proteins, and nucleic acids.
 
 **Web Server:** https://webs.iiitd.edu.in/raghava/cppsite/
+**Cite**
+Piyush Agrawal, Sherry Bhalla, Salman Sadullah Usmani, Sandeep Singh, Kumardeep Chaudhary, Gajendra P. S. Raghava, Ankur Gautam, CPPsite 2.0: a repository of experimentally validated cell-penetrating peptides, Nucleic Acids Research, Volume 44, Issue D1, 4 January 2016, Pages D1098–D1103, https://doi.org/10.1093/nar/gkv1266
 
 This dataset is also available on Zenodo at https://doi.org/10.5281/zenodo.20086676
 
